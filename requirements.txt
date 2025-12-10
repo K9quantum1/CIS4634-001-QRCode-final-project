@@ -1,0 +1,8 @@
+pycryptodome>=3.19.0
+cbor2>=5.4.6
+base45>=0.4.3
+zstandard>=0.22.0
+qrcode[pil]>=7.4.2
+Pillow>=10.0.0
+pyzbar>=0.1.9
+opencv-python>=4.8.0
